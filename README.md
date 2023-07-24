@@ -1,7 +1,7 @@
 # 7daysofcode
 Desafio de 7 dias proposto pela Alura (Instrutora: Rafa Ballerini)
 
-# Dia 1: Reescrever o código abaixo de maneira que ele imprima as informações de maneira correta, que faça sentido e sem erros:
+# Dia 1 (23/07/23): Reescrever o código abaixo de maneira que ele imprima as informações de maneira correta, que faça sentido e sem erros:
   let numeroUm = 1
   let stringUm = '1'
   let numeroTrinta = 30
@@ -26,4 +26,6 @@ Desafio de 7 dias proposto pela Alura (Instrutora: Rafa Ballerini)
   } else {
     console.log('As variáveis numeroDez e stringDez não tem o mesmo valor')
   }
-# Dia 2: 
+  
+# Dia 2 (24/07/23): Desafio de lógica - Mostrar caixas de alerta com perguntas para o usuário, exibindo ao fim, um texto compilando suas respostas.
+
